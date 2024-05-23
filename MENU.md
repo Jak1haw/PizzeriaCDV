@@ -18,6 +18,18 @@
 | 9. | Pepperoni (Sos pomidorowy, mozzarella, pepperoni)                    |         | 23zł | 38zł | 62zł |
 | 10.| Hawajska (Sos pomidorowy, mozzarella, szynka, ananas)                |         | 25zł | 40zł | 65zł |
 
+<img src = img/2147926103.jpg widht=500px>
+
+## Pizze Wegetariańskie
+
+| LP | Pizza                                                            | rozmiar | 30cm | 50cm | 60cm |
+|----|------------------------------------------------------------------|---------|------|------|------|
+| 1. | Milano wege (Sos pomidorowy, mozzarella, ananas, papryka, oregano)|         | 20zł | 25zł | 40zł |
+| 2. | Hawajska wege (Sos pomidorowy, mozzarella, ananas)|                         | 22zł | 27zł | 42zł |
+| 3. | Veggie (Sos pomidorowy, mozzarella, mieszanka warzyw sezonowych)|           | 26zł | 31zł | 46zł |
+| 4. | Quattro Formaggi (Sos pomidorowy, cztery rodzaje sera)|                     | 26zł | 31zł | 46zł |
+| 5. | Caprese (Sos pomidorowy, mozzarella, świeże pomidory, bazylia)|             | 24zł | 29zł | 44zł |
+
 <img src = img/close-up-meal-served-plate.jpg widht=500px>
 
 ## Pizza Calzone
