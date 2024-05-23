@@ -28,9 +28,10 @@
 | 2. | Calzone Fungi (pieczarki, mozzarella, sos pomidorowy)     |  24zł  |
 | 3. | Calzone Pepperoni (pepperoni, mozzarella, sos pomidorowy) |  25zł  |
 
-<img scr = img/classic-italian-pasta-penne-alla-arrabiata-with-basil-freshly-parmesan-cheese.jpg width= 500px>
+<img scr = img/2829.jpg>
 
 ## Makarony  
+
 | LP | Makaron                                       | 250g | 500g |
 |----|-----------------------------------------------|------|------|
 | 1. | Spaghetti Carbonara (boczek, śmietana, jajko) | 20zł | 35zł |
