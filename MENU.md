@@ -61,3 +61,20 @@
 | 2. | Sos czosnkowy           |  3zł  |
 | 3. | Sos BBQ                 |  4zł  |
 | 4. | Sos ostry               |  3zł  |
+
+<img src = img/1638447.jpg widht=500px>
+
+## Napoje
+
+| LP | Napój              | Cena  |
+|----|--------------------|-------|
+| 1. | Woda mineralna     | 5zł   |
+| 2. | Sok pomarańczowy   | 7zł   |
+| 3. | Sok jabłkowy       | 7zł   |
+| 4. | Sok wiśniowy       | 7zł   |
+| 5. | Piwo jasne         | 10zł  |
+| 6. | Piwo ciemne        | 10zł  |
+| 7. | Piwo bezalkoholowe | 8zł   |
+| 8. | Piwo kraftowe      | 12zł  |
+
+
