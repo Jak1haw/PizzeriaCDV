@@ -28,7 +28,7 @@
 | 2. | Calzone Fungi (pieczarki, mozzarella, sos pomidorowy)     |  24zł  |
 | 3. | Calzone Pepperoni (pepperoni, mozzarella, sos pomidorowy) |  25zł  |
 
-<img scr = img/2829.jpg>
+<img src = img/2829.jpg width=500px>
 
 ## Makarony  
 
