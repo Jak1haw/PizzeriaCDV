@@ -28,7 +28,7 @@
 | 2. | Calzone Fungi (pieczarki, mozzarella, sos pomidorowy)     |  24zł  |
 | 3. | Calzone Pepperoni (pepperoni, mozzarella, sos pomidorowy) |  25zł  |
 
-<img src = img/2829.jpg width=500px>
+<img src = img/2829.jpg>
 
 ## Makarony  
 
@@ -40,7 +40,7 @@
 | 4. | Fusilli z kurczakiem i brokułami              | 22zł | 37zł |
 | 5. | Ravioli ze szpinakiem i ricottą               | 24zł | 39zł |
 
-<img src = img/there-is-bowl-salad-with-tomatoes-generative-ai.jpg  widht=500px>
+<img src = img/there-is-bowl-salad-with-tomatoes-generative-ai.jpg widht=500px>
 
 ## Sałatki
 
