@@ -30,6 +30,7 @@
 
 <img scr = img/classic-italian-pasta-penne-alla-arrabiata-with-basil-freshly-parmesan-cheese.jpg width= 500px>
 
+## Makarony  
 | LP | Makaron                                       | 250g | 500g |
 |----|-----------------------------------------------|------|------|
 | 1. | Spaghetti Carbonara (boczek, śmietana, jajko) | 20zł | 35zł |
