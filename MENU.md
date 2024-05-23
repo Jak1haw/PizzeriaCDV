@@ -39,7 +39,7 @@
 | 3. | Sałatka z rukoli z parmezanem     | 17zł  |
 | 4. | Sałatka z pomidorów z mozzarellą  | 16zł  |
 
-<img src = img/homemade-ketchupmustard-mayonnaise-sauce-ingredients-dark-top-view.jpg data-rotate="90" widht=500px>
+<img src = img/homemade-ketchup-mustard-mayonnaise-sauce.jpg widht=500px>
 
 ## Sosy
 
