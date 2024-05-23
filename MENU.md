@@ -28,6 +28,16 @@
 | 2. | Calzone Fungi (pieczarki, mozzarella, sos pomidorowy)     |  24zł  |
 | 3. | Calzone Pepperoni (pepperoni, mozzarella, sos pomidorowy) |  25zł  |
 
+<img scr = img/classic-italian-pasta-penne-alla-arrabiata-with-basil-freshly-parmesan-cheese.jpg width= 500px>
+
+| LP | Makaron                                       | 250g | 500g |
+|----|-----------------------------------------------|------|------|
+| 1. | Spaghetti Carbonara (boczek, śmietana, jajko) | 20zł | 35zł |
+| 2. | Penne Arrabbiata (pikantny sos pomidorowy)    | 18zł | 33zł |
+| 3. | Tagliatelle z łososiem (śmietana, łosoś)      | 25zł | 40zł |
+| 4. | Fusilli z kurczakiem i brokułami              | 22zł | 37zł |
+| 5. | Ravioli ze szpinakiem i ricottą               | 24zł | 39zł |
+
 <img src = img/there-is-bowl-salad-with-tomatoes-generative-ai.jpg  widht=500px>
 
 ## Sałatki
