@@ -2,7 +2,7 @@
 
 ## Pizze Klasyczne
 
-<img src = img/434952.jpg >
+<img src = img/434952.jpg widht=500px>
 
 
 | LP | Pizza                                                                | rozmiar | 30cm | 50cm | 60cm |
@@ -18,7 +18,7 @@
 | 9. | Pepperoni (Sos pomidorowy, mozzarella, pepperoni)                    |         | 23zł | 38zł | 62zł |
 | 10.| Hawajska (Sos pomidorowy, mozzarella, szynka, ananas)                |         | 25zł | 40zł | 65zł |
 
-<img src = img/close-up-meal-served-plate.jpg >
+<img src = img/close-up-meal-served-plate.jpg widht=500px>
 
 ## Pizza Calzone
 
@@ -28,7 +28,7 @@
 | 2. | Calzone Fungi (pieczarki, mozzarella, sos pomidorowy)     |  24zł  |
 | 3. | Calzone Pepperoni (pepperoni, mozzarella, sos pomidorowy) |  25zł  |
 
-<img src = img/there-is-bowl-salad-with-tomatoes-generative-ai.jpg >
+<img src = img/there-is-bowl-salad-with-tomatoes-generative-ai.jpg  widht=500px>
 
 ## Sałatki
 
@@ -39,7 +39,7 @@
 | 3. | Sałatka z rukoli z parmezanem     | 17zł  |
 | 4. | Sałatka z pomidorów z mozzarellą  | 16zł  |
 
-<img src = img/homemade-ketchupmustard-mayonnaise-sauce-ingredients-dark-top-view.jpg>
+<img src = img/homemade-ketchupmustard-mayonnaise-sauce-ingredients-dark-top-view.jpg data-rotate="90" widht=500px>
 
 ## Sosy
 
