@@ -74,6 +74,17 @@
 | 3. | Sos BBQ                 |  4zł  |
 | 4. | Sos ostry               |  3zł  |
 
+## Dodatki do Pizzy
+
+| LP | Dodatek              | Cena  |
+|----|----------------------|-------|
+| 1. | Dodatkowy ser        | 4zł   |
+| 2. | Pieczarki            | 3zł   |
+| 3. | Oliwki               | 3zł   |
+| 4. | Świeża bazylia       | 2zł   |
+| 5. | Papryka              | 4zł   |
+| 5. | Krewetki             | 8zł   |
+
 <img src = img/1638447.jpg widht=500px>
 
 ## Napoje
