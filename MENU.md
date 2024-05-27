@@ -74,6 +74,7 @@
 | 3. | Sos BBQ                 |  4zł  |
 | 4. | Sos ostry               |  3zł  |
 
+<img src = img/19597.jpg widht=500px>
 ## Dodatki do Pizzy
 
 | LP | Dodatek              | Cena  |
