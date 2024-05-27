@@ -12,6 +12,8 @@ Zbyszko Trzycytryny
 
 ## Dostawca
 
+Adam Pędziwiatr
+
 ## Grafik
 
 Nasze próby z poziomu windows
